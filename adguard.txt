@@ -1,2 +1,2 @@
 ||r.dizibox.cc^
-||cdn.flashtalking.com
+||cdn.flashtalking.com^
