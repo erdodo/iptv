@@ -942,5 +942,27 @@ https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.sit
 https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/s-sport-2.m3u8
 #EXTINF:-1 tvg-logo="https://www.taraftariumkeyfi12.site/izle/s-sport-hd" group-title="beIN SPORTS", Sport Smart
 https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/spor-smart.m3u8
+#EXTINF:0,TR: group-title="beIN SPORTS", BEIN SPORTS MAX 1 HD TR
+http://magco.rip:8000/41536364838160/41795870245914/56722
+#EXTINF:0,TR: group-title="beIN SPORTS", BEIN SPORTS MAX 2 HD TR
+http://magco.rip:8000/41536364838160/41795870245914/56721
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 1 HD TR
+http://magco.rip:8000/41536364838160/41795870245914/56731
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 1 HD TR YEDEK
+http://magco.rip:8000/41536364838160/41795870245914/56730
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 1 HD TR YEDEK 2
+http://magco.rip:8000/41536364838160/41795870245914/56729
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 1 HD TR YEDEK 3
+http://magco.rip:8000/41536364838160/41795870245914/56728
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 2 HD TR
+http://magco.rip:8000/41536364838160/41795870245914/56727
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 2 HD TR YEDEK
+http://magco.rip:8000/41536364838160/41795870245914/56726
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 3 HD TR
+http://magco.rip:8000/41536364838160/41795870245914/56725
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 3 HD TR YEDEK
+http://magco.rip:8000/41536364838160/41795870245914/56724
+#EXTINF:0,TR: group-title="beIN SPORTS",  BEINSPORTS 4 HD TR
+http://magco.rip:8000/41536364838160/41795870245914/56723
 
 
