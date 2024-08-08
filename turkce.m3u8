@@ -861,7 +861,7 @@ http://stream.tvcdn.net/diger-eglence/vrt-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7e4f2845-3c60-41ac-8ac2-4bfd513f651e.png" group-title="Kütahya",Kütahya Laleli 
-https://cdn-ipkamera.yayin.com.tr/kutahyabelediyesi/lalelikavsagi/chunklist_w551999896.m3u8
+https://cdn-ipkamera.yayin.com.tr/kutahyabelediyesi/lalelikavsagi/chunklist_w551999896.m3u8?anahtar=MMAIC7Hd1_K7EFBTICbzIg&sure=1723163849&ip=31.223.109.216MMAIC7Hd1_K7EFBTICbzIg&sure=1723163849&ip=31.223.109.216
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7e4f2845-3c60-41ac-8ac2-4bfd513f651e.png" group-title="Azerbaycan",Agro TV Azerbaycan
 http://stream.tvcdn.net/azerbaycan/agro-tv-azerbaycan.m3u8
