@@ -936,21 +936,11 @@ https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.sit
 https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-4.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Bein_5.png" group-title="beIN SPORTS", beIN SPORTS 5 HD
 https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-5.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bein6.png" group-title="beIN SPORTS", beIN SPORTS 6 HD
-https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-6.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Bein_7.png" group-title="beIN SPORTS", beIN SPORTS 7 HD
-https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-7.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Bein_8.png" group-title="beIN SPORTS", beIN SPORTS 8 HD
-https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-8.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Bein_sport_9.png" group-title="beIN SPORTS", beIN SPORTS 9 HD
-https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 10" tvg-logo="https://www.orbitiptvpro.com/logos/b10.png" group-title="beIN SPORTS", beIN SPORTS 10 HD
-https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 11" tvg-logo="https://www.orbitiptvpro.com/logos/b11.png" group-title="beIN SPORTS", beIN SPORTS 11 HD
-https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 12" tvg-logo="https://www.orbitiptvpro.com/logos/b12.png" group-title="beIN SPORTS", beIN SPORTS 12 HD
-https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport 13" tvg-logo="https://www.orbitiptvpro.com/logos/b13.png" group-title="beIN SPORTS", beIN SPORTS 13 HD
-https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/bein-sports-13.m3u8
+#EXTINF:-1 tvg-logo="https://www.taraftariumkeyfi12.site/izle/s-sport-hd" group-title="beIN SPORTS", S Sport
+https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/s-sport.m3u8
+#EXTINF:-1 tvg-logo="https://www.taraftariumkeyfi12.site/izle/s-sport-hd" group-title="beIN SPORTS", S Sport 2
+https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/s-sport-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.taraftariumkeyfi12.site/izle/s-sport-hd" group-title="beIN SPORTS", Sport Smart
+https://hlsjs.sadaghaysa.workers.dev/https://volestream-live.volestream-live.site/hls/spor-smart.m3u8
 
 
