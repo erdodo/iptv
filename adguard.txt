@@ -1,2 +1,3 @@
 ||r.dizibox.cc^
 ||cdn.flashtalking.com^
+||abs.yandex.ru^
