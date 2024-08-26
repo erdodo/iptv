@@ -1,3 +1,4 @@
 ||r.dizibox.cc^
 ||cdn.flashtalking.com^
 ||abs.yandex.ru^
+||cat.fr3.eu.criteo.com
