@@ -23,3 +23,4 @@
 ||cat.fr3.eu.criteo.com^
 ||adclick.g.doubleclick.net^
 ||doubleclick.net^
+||2mdn.net^
