@@ -1,7 +1,7 @@
 !
 ! Title: Erdo blocklist
 ! Description: Blocklist
-! Version: 1.0.2
+! Version: 1.0.3
 ! Homepage: https://github.com/erdodo/iptv/edit/main/adguard.txt
 ! Last modified: 2024-08-26T22:38:20.036Z
 !
