@@ -6,7 +6,6 @@
 ! Expires: 1 day
 
 ! Your existing rules
-||r.dizibox.cc^
 ||cdn.flashtalking.com^
 ||abs.yandex.ru^
 ||cat.fr3.eu.criteo.com^
