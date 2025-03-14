@@ -1,12 +1,11 @@
-! Title: Erdo blocklist
-! Description: Combined Analytics and Ads Blocklist
-! Version: 1.0.5
+! Title: Erdo Enhanced Blocklist
+! Description: Combined Analytics, Ads and Tracking Domains
+! Version: 1.0.6
 ! Homepage: https://github.com/erdodo/iptv/edit/main/adguard.txt
 ! Last modified: 2024-03-14
 ! Expires: 1 day
-! Compiled by @erdodo
 
-! Existing blocklist
+! Your existing rules
 ||r.dizibox.cc^
 ||cdn.flashtalking.com^
 ||abs.yandex.ru^
@@ -15,9 +14,11 @@
 ||doubleclick.net^
 ||2mdn.net^
 
-! New Analytics and Ads Domains
+! Amazon Ads
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
+
+! Google Services
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
@@ -25,20 +26,28 @@
 ||google-analytics.com^
 ||analytics.google.com^
 ||click.googleanalytics.com^
+
+! Analytics Services
 ||script.hotjar.com^
 ||surveys.hotjar.com^
 ||insights.hotjar.com^
 ||adm.hotjar.com^
 ||identify.hotjar.com^
 ||careers.hotjar.com^
+
+! MouseFlow
 ||o2.mouseflow.com^
 ||cdn.mouseflow.com^
 ||mouseflow.com^
 ||tools.mouseflow.com^
 ||cdn-test.mouseflow.com^
+
+! FreshWorks
 ||claritybt.freshmarketer.com^
 ||freshmarketer.com^
 ||fwtracks.freshmarketer.com^
+
+! LuckyOrange
 ||upload.luckyorange.net^
 ||cs.luckyorange.net^
 ||realtime.luckyorange.com^
@@ -47,40 +56,62 @@
 ||w1.luckyorange.com^
 ||luckyorange.com^
 ||cdn.luckyorange.com^
+
+! WordPress
 ||stats.wp.com^
+
+! Error Tracking
 ||sessions.bugsnag.com^
 ||notify.bugsnag.com^
 ||api.bugsnag.com^
 ||app.bugsnag.com^
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
+
+! Social Media
 ||an.facebook.com^
 ||pixel.facebook.com^
 ||ads-api.twitter.com^
 ||analytics.pointdrive.linkedin.com^
-||ads.tiktok.com^
+||log.pinterest.com^
+||ads.pinterest.com^
+||analytics.pinterest.com^
+||trk.pinterest.com^
+||events.reddit.com^
+||events.redditmedia.com^
+||ads.youtube.com^
+
+! TikTok
 ||analytics.tiktok.com^
+||ads.tiktok.com^
 ||analytics-sg.tiktok.com^
 ||log.byteoversea.com^
 ||business-api.tiktok.com^
 ||ads-api.tiktok.com^
 ||ads-sg.tiktok.com^
+
+! Yahoo
 ||analytics.query.yahoo.com^
 ||geo.yahoo.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
+||log.fc.yahoo.com^
 ||analytics.yahoo.com^
 ||partnerads.ysm.yahoo.com^
+
+! Yandex
 ||adfstat.yandex.ru^
 ||appmetrica.yandex.ru^
 ||adfox.yandex.ru^
 ||metrika.yandex.ru^
+
+! Unity
 ||auction.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
 ||adserver.unityads.unity3d.com^
 ||webview.unityads.unity3d.com^
 
-! OEM Analytics
+! Mobile OEMs
 ||iot-eu-logser.realme.com^
 ||bdapi-in-ads.realmemobile.com^
 ||iot-logser.realme.com^
@@ -93,15 +124,21 @@
 ||data.ads.oppomobile.com^
 ||ck.ads.oppomobile.com^
 ||adsfs.oppomobile.com^
+
+! Huawei
 ||metrics2.data.hicloud.com^
 ||logbak.hicloud.com^
 ||grs.hicloud.com^
 ||metrics.data.hicloud.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
+
+! Samsung
 ||samsung-com.112.2o7.net^
 ||smetrics.samsung.com^
 ||analytics-api.samsunghealthcn.com^
+
+! Apple
 ||metrics.icloud.com^
 ||iadsdk.apple.com^
 ||metrics.mzstatic.com^
