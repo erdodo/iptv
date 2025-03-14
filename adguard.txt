@@ -1,22 +1,12 @@
-!
 ! Title: Erdo blocklist
-! Description: Blocklist
-! Version: 1.0.4
+! Description: Combined Analytics and Ads Blocklist
+! Version: 1.0.5
 ! Homepage: https://github.com/erdodo/iptv/edit/main/adguard.txt
-! Last modified: 2024-08-26T22:38:20.036Z
-!
+! Last modified: 2024-03-14
+! Expires: 1 day
 ! Compiled by @erdodo
-!
-!
-! Source name: --
-! Source: https://raw.githubusercontent.com/erdodo/iptv/master/adguard.txt
-!
-! Title: Erdo blocklist
-! Updated: 2024-08-26T22:38:20.036Z
-! Expires: 1 day (update frequency)
-! Homepage: https://github.com/erdodo/iptv/edit/main/adguard.txt
-! License: https://github.com/erdodo/iptv/edit/main/adguard.txt
-! Source: https://github.com/erdodo/iptv/edit/main/adguard.txt
+
+! Existing blocklist
 ||r.dizibox.cc^
 ||cdn.flashtalking.com^
 ||abs.yandex.ru^
@@ -24,3 +14,98 @@
 ||adclick.g.doubleclick.net^
 ||doubleclick.net^
 ||2mdn.net^
+
+! New Analytics and Ads Domains
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||afs.googlesyndication.com^
+||ssl.google-analytics.com^
+||google-analytics.com^
+||analytics.google.com^
+||click.googleanalytics.com^
+||script.hotjar.com^
+||surveys.hotjar.com^
+||insights.hotjar.com^
+||adm.hotjar.com^
+||identify.hotjar.com^
+||careers.hotjar.com^
+||o2.mouseflow.com^
+||cdn.mouseflow.com^
+||mouseflow.com^
+||tools.mouseflow.com^
+||cdn-test.mouseflow.com^
+||claritybt.freshmarketer.com^
+||freshmarketer.com^
+||fwtracks.freshmarketer.com^
+||upload.luckyorange.net^
+||cs.luckyorange.net^
+||realtime.luckyorange.com^
+||settings.luckyorange.net^
+||api.luckyorange.com^
+||w1.luckyorange.com^
+||luckyorange.com^
+||cdn.luckyorange.com^
+||stats.wp.com^
+||sessions.bugsnag.com^
+||notify.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||an.facebook.com^
+||pixel.facebook.com^
+||ads-api.twitter.com^
+||analytics.pointdrive.linkedin.com^
+||ads.tiktok.com^
+||analytics.tiktok.com^
+||analytics-sg.tiktok.com^
+||log.byteoversea.com^
+||business-api.tiktok.com^
+||ads-api.tiktok.com^
+||ads-sg.tiktok.com^
+||analytics.query.yahoo.com^
+||geo.yahoo.com^
+||udc.yahoo.com^
+||udcm.yahoo.com^
+||analytics.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||adfstat.yandex.ru^
+||appmetrica.yandex.ru^
+||adfox.yandex.ru^
+||metrika.yandex.ru^
+||auction.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+
+! OEM Analytics
+||iot-eu-logser.realme.com^
+||bdapi-in-ads.realmemobile.com^
+||iot-logser.realme.com^
+||bdapi-ads.realmemobile.com^
+||tracking.rus.miui.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||data.mistat.xiaomi.com^
+||adx.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||adsfs.oppomobile.com^
+||metrics2.data.hicloud.com^
+||logbak.hicloud.com^
+||grs.hicloud.com^
+||metrics.data.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||samsung-com.112.2o7.net^
+||smetrics.samsung.com^
+||analytics-api.samsunghealthcn.com^
+||metrics.icloud.com^
+||iadsdk.apple.com^
+||metrics.mzstatic.com^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
+||books-analytics-events.apple.com^
+||api-adservices.apple.com^
