@@ -9,7 +9,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="Beyaz TV.tr" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="",Beyaz TV 
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 #EXTINF:-1 tvg-id="Show TV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="",Show TV 
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="Kanal 7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="entertainment",Kanal 7 
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8 
@@ -844,6 +844,7 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 
 #EXTINF:-1 tvg-id="Viyana TV.tr" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="Diğer-Eğlence",Viyana TV 
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VRT TV.tr" tvg-logo="http://assets.tvcdn.net/190e5de4-240c-4394-b364-acf1be7ca010.png" group-title="Diğer-Eğlence",VRT TV 
 
 #EXTINF:-1 tvg-id="YANSIMA SINEMA TV.tr" tvg-logo="http://assets.tvcdn.net/dbdb9b76-d4f4-47b4-a342-54bee0025b1c.jpeg" group-title="Diğer-Eğlence",YANSIMA SINEMA TV 
