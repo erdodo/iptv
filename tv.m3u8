@@ -9,7 +9,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="Beyaz TV.tr" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="",Beyaz TV 
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 #EXTINF:-1 tvg-id="Show TV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="",Show TV 
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=bcbf4648b782adfa81cb34ff5efa3f16
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7tux3ufx5ap7&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="Kanal 7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="entertainment",Kanal 7 
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8 
@@ -1028,5 +1028,6 @@ https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:-1 tvg-id="Sudurağı TV.tr" tvg-logo="http://assets.tvcdn.net/3c0af333-a0c5-456f-a7fe-b491f63b30c7.png" group-title="Diğer-Eğlence",Sudurağı TV 
 
 #EXTINF:-1 tvg-id="Yansıma Sinema TV.tr" tvg-logo="http://assets.tvcdn.net/dbdb9b76-d4f4-47b4-a342-54bee0025b1c.jpeg" group-title="Diğer-Eğlence",Yansıma Sinema TV 
+
 
 
